@@ -292,7 +292,7 @@ function App() {
             <div className="relative order-first lg:order-last">
               <div className="glass-strong rounded-3xl p-1 animate-float">
                 <img
-                  src="/image.png"
+                  src="/image copy.png"
                   alt="Abyssal Profile"
                   className="w-full h-auto max-h-[600px] object-cover rounded-2xl"
                 />
